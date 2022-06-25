@@ -1,7 +1,11 @@
 {
+
   "name": "dynamic-link-test",
   "version": "1.0.0",
   "private": true,
+  "engines": {
+    "node": ">=14.19.1"
+  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
